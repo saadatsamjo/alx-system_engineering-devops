@@ -1,1 +1,1 @@
-#!/bin/cat\nPrintf "hellow, World\n"
+#!/bin/cat\nPrintf "hellow, World"\n
