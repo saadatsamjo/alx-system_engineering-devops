@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#The script that only shows listening sockets
+sudo netstat -lp
